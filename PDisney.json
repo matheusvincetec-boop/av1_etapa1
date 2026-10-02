@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Mickey Mouse",
+    "numero": "91",
+    "foto": "https://picsum.photos",
+    "cargo": "Governador(a)"
+  },
+  {
+    "nome": "Pato Donald",
+    "numero": "91",
+    "foto": "https://picsum.photos",
+    "cargo": "Presidente"
+  },
+  {
+    "nome": "Pato Donald",
+    "numero": "91",
+    "foto": "https://picsum.photos",
+    "cargo": "Presidente"
+  },
+  {
+    "nome": "Pluto",
+    "numero": "91",
+    "foto": "https://picsum.photos",
+    "cargo": "Deputado(a) Federal"
+  },
+  {
+    "nome": "Pluto",
+    "numero": "91",
+    "foto": "https://picsum.photos",
+    "cargo": "Deputado(a) Estadual"
+  },
+  {
+    "nome": "Pluto",
+    "numero": "91",
+    "foto": "https://picsum.photos",
+    "cargo": "Governador(a)"
+  }
+]
